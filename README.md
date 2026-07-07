@@ -127,9 +127,9 @@ Deployed on [Render](https://render.com) free tier using the included
 Dockerfile (Render auto-detects and builds it — no extra config needed
 beyond setting the `JWT_SECRET` environment variable in the dashboard).
 
-- GitHub repo: `<add your repo URL here>`
-- Deployed URL: `<add your Render URL here>`
-- Public health check: `<deployed URL>/health`
+- GitHub repo: https://github.com/saurabh9950/ticket-system-
+- Deployed URL: https://ticket-system-t43n.onrender.com
+- Public health check: https://ticket-system-t43n.onrender.com/health
 
 ### Deployment steps (Render)
 
